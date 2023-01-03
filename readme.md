@@ -1,8 +1,8 @@
 ## Contents
 
-#### Jeremy Clarkson
+[ [Jeremy Clakson](#Jeremy Clarkson) ]
 
-### Jeremy Clakson
+### Jeremy Clarkson
 ```
 "I'd like to consider Ferrari as a scaled down version of God." - Jeremy Clarkson
 ```
