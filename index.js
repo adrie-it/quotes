@@ -41,10 +41,9 @@ function genQuote() {
 }
 
 //quote array
-var quotes = ["Blank", "\"I'd like to consider Ferrari as a scaled down version of God. <br> - Jeremy Clarkson", "\"
-"\"Speed has never killed anyone. Suddenly becoming stationary, that's what gets you <br> - Jeremy Clarkson,
-"\"It's What non-car people don't get. They see all cars as just ton-and-a-half, two-tons of wires, glass, metal and rubber. That's all they see. People like you or I know, we have an unshakable belief that cars are living entities. You can develop a relationship with a car. And that's justwhat non-car people don't get. <br> - Jeremy Clarkson",];
-
+var quotes = ["Blank", "\"I'd like to consider Ferrari as a scaled down version of God. <br> - Jeremy Clarkson", "\"Speed has never killed anyone. Suddenly becoming stationary, that's what gets you <br> - Jeremy Clarkson,
+"\"It's What non-car people don't get. They see all cars as just ton-and-a-half, two-tons of wires, glass, metal and rubber. That's all they see. People like you or I know, we have an unshakable belief that cars are living entities. You can develop a relationship with a car. And that's justwhat non-car people don't get. <br> - Jeremy Clarkson",
+"\" There’s sharks and minnows in this world. If you don’t know which you are, you ain’t a shark. <br> -Rip Wheler,];
 //date
 function startDate() {
   var d = new Date();
