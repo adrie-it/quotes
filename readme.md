@@ -12,7 +12,7 @@
 ```
 "It's What non-car people don't get. They see all cars as just ton-and-a-half, two-tons of wires, glass, metal and rubber.
 That's all they see. 
-People like you or i know, we have an unshakable belief that cars are living entities. 
+People like you or I know, we have an unshakable belief that cars are living entities. 
 You can develop a relationship with a car.
 And that's justwhat non-car people don't get."
 - Jeremy Clarkson
