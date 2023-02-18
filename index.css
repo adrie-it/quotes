@@ -5,7 +5,7 @@ html, body {
     width: 100%;
     position: absolute;
     background-color: black;
-    background-image: url('https://wallpapercave.com/wp/5KLTq1z.jpg');
+    background-image: url('/images/wp.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top;
@@ -72,6 +72,7 @@ html, body {
   
   #content {
     height: 45em;
+
   } p {
     max-width: 30em;
     color: white;
@@ -165,7 +166,3 @@ html, body {
       }
   }
   
-  .fa-twitter {
-    font-size: 30px !important;
-    margin-left: 20px;
-  }
