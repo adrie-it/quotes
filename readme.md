@@ -147,7 +147,7 @@ In the end you start thinking about the beginning. - J Smith Bourne
 ```
 
 ```
-
+Money doesnt buy happiness, it buys crazy ass happiness. - Emenim
 ```
 
 ```
