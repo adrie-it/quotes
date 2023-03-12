@@ -26,6 +26,9 @@ Lawyers are the swords of this century. Words are weapons now. - John Dutton
 This aint checkers son, this is chess and your about to play with masters. - John Dutton
 ```
 ```
+Life ends, that’s part of it. - John Dutton
+```
+```
 Your either born in willow or your born in oak. - Loyd Pierce
 ```
 ```
