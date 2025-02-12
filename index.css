@@ -19,8 +19,9 @@ html, body {
 
   #content {
     height: 45em;
-    line-height: 45em;
     text-align: center;
+    padding-top: 8%;
+    padding-bottom: 50%;
   }
   
   p {
@@ -33,10 +34,7 @@ html, body {
     text-transform: lowercase;
     line-height: 145%;
     font-size: 2em;
-    font-variant: small-caps;
-    line-height: 1.5;
-    display: inline-block;
-    vertical-align: middle;    
+    font-variant: small-caps; 
   }
   
   #b-nav {
