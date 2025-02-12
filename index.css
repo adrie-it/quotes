@@ -45,6 +45,32 @@ html, body {
     text-align: left;
   }
   
+  #b-nav {
+    padding-bottom: 5em;
+    position: fixed;
+    width: 100%;
+    bottom: 2em;
+  }
+  
+  #b-nav ul {
+    margin: 0;
+    padding: 0.5em;
+    list-style-type: none;
+    text-align: center;
+  }
+  
+  #b-nav ul li {
+    display: inline;
+  }
+  
+  #b-nav ul li a {
+    text-decoration: none;
+    padding: .2em 1em;
+    background-color: black;
+    opacity: 0.4;
+    filter: alpha(opacity=40); /* For IE8 and earlier */
+  }
+
   #gen {
     outline: none;
     padding-top: 5px;
@@ -80,4 +106,5 @@ html, body {
         font-size: 1em;
       }
   }
+  
   
