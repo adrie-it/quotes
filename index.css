@@ -12,23 +12,19 @@ html, body {
     z-index: -2;
   }
   
-  #footer {
-    width: 100%;
-    height: 40px;
-    position: fixed;
-    bottom: -1px;
-    background-color: white;
-    text-align: center;
-    opacity: 0.5;
-    filter: alpha(opacity=50); /* For IE8 and earlier */
+  #quote-box{
+    margin: auto;
+    padding: 10px;
   }
-  
-  
+
   #content {
     height: 45em;
-
-  } p {
-    max-width: 30em;
+    line-height: 45em;
+    text-align: center;
+  }
+  
+  p {
+    max-width: 40em;
     color: white;
     font-family: "Adobe Caslon Pro", "Hoefler Text", Georgia, Garamond, Times, serif;
     letter-spacing:0.1em;
@@ -38,15 +34,13 @@ html, body {
     line-height: 145%;
     font-size: 2em;
     font-variant: small-caps;
-  }
-  
-  .hold {
-    width: 100%;
-    text-align: left;
+    line-height: 1.5;
+    display: inline-block;
+    vertical-align: middle;    
   }
   
   #b-nav {
-    padding-bottom: 5em;
+    padding-bottom: 4em;
     position: fixed;
     width: 100%;
     bottom: 2em;
@@ -84,6 +78,7 @@ html, body {
     border-radius: 2px;
     transition: 0.5s;
     padding-bottom: 5px;
+    transition-duration: 1000ms;
   }
   
   #gen:hover {
@@ -91,6 +86,7 @@ html, body {
     color: black;
     border: thin solid black;
     opacity: 0.8;
+    transition-duration: 1000ms;
   }
   
   #gen a {
@@ -107,4 +103,22 @@ html, body {
       }
   }
   
-  
+  footer {
+    position: fixed;
+    bottom: -1px;
+    width: 100%;
+    height: 2vh;
+    background-color: white;
+    text-align: center;
+    
+    opacity: 0.5;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+  }
+
+  footer a{
+    width: 100%;
+    bottom: 0.7vh;
+    text-decoration: none;
+    color: black;
+    line-height: 20px;
+  }
