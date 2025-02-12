@@ -12,26 +12,6 @@ html, body {
     z-index: -2;
   }
   
-  #display {
-      color: white;
-      font-size: 2.9em;
-      top: 10px;
-    border-bottom: thin solid;
-    padding-bottom: 20px;
-    opacity: 0.80;
-    filter: alpha(opacity=80); /* For IE8 and earlier */
-  }
-  
-  #date {
-    color: white;
-    font-size: 1.3em;
-    font-family: Georgia, "Times New Roman", Times, serif;
-    font-weight: normal;
-    letter-spacing: 0.2em;
-    opacity: 0.6;
-    filter: alpha(opacity=60); /* For IE8 and earlier */
-  }
-  
   #footer {
     width: 100%;
     height: 40px;
@@ -43,32 +23,6 @@ html, body {
     filter: alpha(opacity=50); /* For IE8 and earlier */
   }
   
-  #line {
-    width: 100%;
-    bottom: 4em;
-    position: fixed;
-    border-bottom: solid white;
-    padding: 15px;
-    opacity: 0.5;
-    filter: alpha(opacity=50); /* For IE8 and earlier */
-  }
-  
-  .navbar {
-    position: fixed;
-    width: 100%;
-    opacity: 0.6;
-    filter: alpha(opacity=60); /* For IE8 and earlier */
-  }
-  
-  .wrapper {
-    background-color: red;
-  }
-  
-  span {
-    border-radius: 100px;
-    opacity: 0.75;
-    filter: alpha(opacity=75); /* For IE8 and earlier */
-  }
   
   #content {
     height: 45em;
@@ -84,41 +38,6 @@ html, body {
     line-height: 145%;
     font-size: 2em;
     font-variant: small-caps;
-  }
-  
-  p :hover {
-    text-decoration: none;
-  }
-  
-  .container {
-    padding-top: 6em;
-    text-align: center;
-  }
-  
-  #b-nav {
-    padding-bottom: 5em;
-    position: fixed;
-    width: 100%;
-    bottom: 2em;
-  }
-  
-  #b-nav ul {
-    margin: 0;
-    padding: 0.5em;
-    list-style-type: none;
-    text-align: center;
-  }
-  
-  #b-nav ul li {
-    display: inline;
-  }
-  
-  #b-nav ul li a {
-    text-decoration: none;
-    padding: .2em 1em;
-    background-color: black;
-    opacity: 0.4;
-    filter: alpha(opacity=40); /* For IE8 and earlier */
   }
   
   .hold {
@@ -150,10 +69,6 @@ html, body {
   
   #gen a {
     text-decoration: none;
-  }
-  
-  #date {
-    color: white;
   }
   
   @media screen 
