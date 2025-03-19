@@ -31,7 +31,6 @@ const quotes = [
     {quote: "For high school graduation in Finland, you wear a fluffy white hat with a black band. There's a ceremony in which they hand out diplomas, and when you come home all your relatives are there with lots of champagne, flowers, and cake. And there's also a party for the entire class at a local restaurant. We did all that, and I guess I had fun, but I don't remember anything special about it. But ask me about the specs on my 68008-chip machine and I can rattle them off with total recall.", author: "- Linus Torvalds"},
     {quote: "Some people have told me they don't think a fat penguin really embodies the grace of Linux, which just tells me they have never seen a angry penguin charging at them in excess of 100 mph.", author: "- Linus Torvalds"},
     {quote: "Fuck you, Nvidia", author: "- Linus Torvalds"},
-    {quote: "Fuck Microsoft FUCK", author: "- Dr. Adrian Mallard"}, /* Space Force S02E07 */
     {quote: "Perfection is the enemy of progress.", author: "- Winston Churchill"},
     {quote: "In the end you start thinking about the beginning.", author: "- J Smith Bourne"},
     {quote: "Money doesnt buy happiness, it buys crazy ass happiness.", author: "- Emenim"},
