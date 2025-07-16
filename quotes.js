@@ -71,7 +71,7 @@ const quotes = [
     {quote: "Geef Boudewijn een goede soep en de volgende morgen spreekt hij er nog steeds over", author: "- Boudewijn Mast"},
     {quote: "Rust is nature's loctite", author: "- Someone"},
     {quote: "A wise man can learn more from his enemies than a fool from his friends", author: "-Baltasar Gracian"},
-    {quote: "The gates of hell are open night and day; Smooth the descent, and easy is the way: But to return, and view the cheerful skies, In this the task and mighty labour lies.", author: "- Lucius Verus (Gladiator II)" }
+    {quote: "The gates of hell are open night and day; Smooth the descent, and easy is the way: But to return, and view the cheerful skies, In this the task and mighty labour lies.", author: "- Lucius Verus (Gladiator II)" },
 
     {quote: "There's only one rule in the jungle: when the lion's hungry, he eats", author: "- Michael Pearson" }
 ];
