@@ -58,7 +58,6 @@ const quotes = [
     {quote: "Dying Is The Day Worth Living For", author: "- Captain Hector Barbossa"},
     {quote: "Be careful who you share good news with. You want to share good news with people who will be genuinely happy for you. That’s one way you can identify those people who are on your side.", author: "- Jordan B Peterson"},
     {quote: "You know the problem with being the last of anything... By and by, there be none left at all. ", author: "- Captain Hector Barbossa"},
-    {quote: "Cruel is a matter of perspective", author: "- Captain Jack Sparrow"},
     {quote: "Good drivers have dead flies on the side windows.", author: "- Walter Röhrl, WRC Champion 1980 & 1982"},
     {quote: "When you’re young, you have time. You have health, but you have no money. When you’re middle-aged, you have money and you have health, but you have no time. When you’re old, you have money and you have time, but you have no health. So the trifecta is trying to get all three at once. By the time people realize they have enough money, they’ve lost their time and their health.", author: "Naval Ravikant"},
     {quote: "There is no greater sacrifice than someone else's", author: "- Skipper"},
