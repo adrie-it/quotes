@@ -74,6 +74,7 @@ const quotes = [
     {quote: "Der is maar 1 moment dat je op tijd kan komen, als je er niet bent dan ben je of te vroeg of te laat", author: "Johan Cruijff"},
     {quote: "Three may keep a secret if two are dead", author: "Benjamin Franklin"},
     {quote: "Grief is the price we pay for love", author: "Jimmy Carr"},
+    {quote: "For someone who has elevated fucking up into an art form, this might well be your Mona Lisa.", author: "Wallace Westwyld"},
 
     {quote: "There's only one rule in the jungle: when the lion's hungry, he eats", author: "Michael Pearson" }
 ];
